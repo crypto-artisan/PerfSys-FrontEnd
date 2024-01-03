@@ -129,3 +129,6 @@ Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-reac
 - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
 - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
 - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
+
+
+@powered by hightecular95908
